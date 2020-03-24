@@ -9,6 +9,6 @@ A complete Enhanced Crafting Table looks like this:
 
 You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the Dispenser to collect your crafted items.
 
-## How to use an Enhanced Crafting Table
+## Usage
 Place your items in the correct pattern in the Dispenser, then right click the Crafting Table.<br>
 If the recipe is correct, the crafted item will appear in the Dispenser (or the Output Chest next to it).
